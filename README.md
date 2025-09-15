@@ -61,5 +61,12 @@ This repo contains two 3D CAD models I created to explore aerodynamics and struc
 
 ## Author
 
-Developed by **Imaad Javaid** – BSc Physics @ Loughborough University  
-Focused on applying physics, CAD, and simulation to motorsport engineering.
+**Imaad Javaid**  
+ [Imaad.Javaid@outlook.com](mailto:Imaad.Javaid@outlook.com) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imaad-javaid-854941369)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IJF1)
+
+---
+
+ *This project is part of my **F1 Simulation Portfolio**, showcasing my passion for motorsport engineering and ability to apply physics + coding to realistic race scenarios.*
